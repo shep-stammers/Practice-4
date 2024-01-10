@@ -21,3 +21,7 @@ images {
   width: 200px;
   height: 200px;
 }
+
+.container-padding {
+  padding-top: 15vh;
+}
